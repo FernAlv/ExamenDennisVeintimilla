@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examen Dennis Veintimilla</string>
+    <string name="dennis_fernando">Dennis Fernando</string>
+    <string name="veintimilla_alvarado">Veintimilla Alvarado</string>
+    <string name="crear_actor">Crear Actor</string>
+    <string name="listar_actores">Listar Actores</string>
+</resources>
